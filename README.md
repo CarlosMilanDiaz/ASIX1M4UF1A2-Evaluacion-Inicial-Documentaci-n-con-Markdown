@@ -43,4 +43,4 @@ El Lenguaje de Marcado de Hipertexto (HTML) es el código que se utiliza para es
 CSS es uno de los lenguajes más importantes que se utilizan para ordenar las instrucciones referentes a la apariencia de un sitio y presentar los contenidos de una página de forma atractiva.
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
-![Esto es una imagen] (https://github.com/CarlosMilanDiaz/ASIX1M4UF1A2-Evaluacion-Inicial-Documentaci-n-con-Markdown/blob/main/Flujo%20de%20trabajo.png "Titulo opcional de la imagen")
+![Esto es una imagen](Flujo%20de%20trabajo.png "Titulo opcional de la imagen")
