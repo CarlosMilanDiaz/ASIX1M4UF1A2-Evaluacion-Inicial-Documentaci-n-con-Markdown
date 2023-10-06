@@ -16,6 +16,7 @@ Respuesta.
 5. Herramientas de Google:
 
 |Aplicaciones|Visto|
+|---------------|:------------:|------------:|
 |Google Docs| |
 |Google Slides| |
 |Google Sheets| |
@@ -43,3 +44,4 @@ Respuesta.
 Respuesta
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
+![Esto es una imagen]  "Titulo opcional de la imagen")
